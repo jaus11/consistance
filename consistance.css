@@ -1,0 +1,58 @@
+body {
+    /* background-image: url(./images/fake_brick.png); */
+    /* background-repeat: repeat; */
+    font-family: Bell MT;
+}
+
+#top {
+    color: GRAY;
+    padding: 70px;
+    text-align: center;
+}
+
+.title {
+    /* font-size: 80px; */
+    font-size: 100px;
+}
+
+#information {
+    color: GRAY;
+    text-align: center;
+    margin: 30px;
+    font-size: 20px;
+}
+
+H1 {
+    color: GRAY;
+}
+
+#information table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tracklist {
+    color: GRAY;
+    text-align: center;
+    margin: 30px;
+}
+
+#tracklist table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+}
+
+.box img {
+    width: 300px;
+    height: 300px;
+}
+
+#credit {
+    text-align: center;
+    color: GRAY;
+}

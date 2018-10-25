@@ -1,7 +1,7 @@
 body {
     /* background-image: url(./images/fake_brick.png); */
     /* background-repeat: repeat; */
-    font-family: "Bell MT";
+    font-family: "Bell MT Bold";
 }
 
 #top {
@@ -27,6 +27,7 @@ H1 {
 }
 
 #information table {
+    font-size: 30px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -38,7 +39,7 @@ H1 {
 }
 
 #tracklist table {
-    font-size: 50px;
+    font-size: 30px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -54,6 +55,7 @@ H1 {
 }
 
 #credit {
+    font-size: 30px;
     text-align: center;
     color: GRAY;
 }
